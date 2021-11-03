@@ -1,9 +1,13 @@
 CACHE MANIFEST 
 # v2 Self-Host 
 
+Silver755.js
+Silver755x80.js
+Silver755x82-1.2.js
+webkit.js
+webrte.js
 app2usb.js
 BeefQueefMod133.js
-cookies.js
 DB_SG_Backup.js
 DB_SG_restore.js
 disableaslr.js
@@ -13,26 +17,17 @@ exitidu.js
 exploit.js
 fancontrol.js
 ftp.js
-henSP8.js
-henSP7.js
 index.html
 jsloader.js
-jailbreak.js
 lndex.html
 Orbis-Toolbox-755.js
 ps4debug.js
 ps4-dumper-1.8.js
-rdr2mod124.js
 rop.js
-Silver755.js
-Silver755x80.js
-Silver755x82-1.2.js
-style2.css
 userland.js
-webkit.js
-webrte.js
-
-
-
-
-
+rdr2mod124.js
+cookies.js
+henSP8.js
+henSP7.js
+style2.css
+jailbreak.js
